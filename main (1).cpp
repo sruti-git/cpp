@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout<<"I'm ready to learn cpp";
+ return 0;
+}
