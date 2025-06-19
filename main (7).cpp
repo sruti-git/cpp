@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=10;
+    int sum=(++a)+(a*3)+(a--)+(--a)+(a--);
+    cout<<sum<<" "<<a;
+    return 0;
+}
