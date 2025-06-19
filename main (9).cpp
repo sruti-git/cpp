@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=9,b=3;
+    cout<<a+b<<endl; //12
+    cout<<a-b<<endl; //6 
+    cout<<a*b<<endl; //27
+    cout<<a/b<<endl; //3
+    cout<<a%b<<endl; //0
+return 0;
+}
