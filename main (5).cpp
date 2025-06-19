@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=10;
+    cout<<"The value of is :"<<a; //output is 10 
+return 0;
+}
